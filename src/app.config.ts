@@ -3,6 +3,7 @@ export default defineAppConfig({
     'pages/index/index',
     'pages/order/index',
     'pages/finish/index',
+    'pages/match/index',
   ],
   window: {
     backgroundTextStyle: 'dark',
