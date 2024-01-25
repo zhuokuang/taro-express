@@ -2,6 +2,7 @@ export default defineAppConfig({
   pages: [
     'pages/index/index',
     'pages/order/index',
+    'pages/finish/index',
   ],
   window: {
     backgroundTextStyle: 'dark',
